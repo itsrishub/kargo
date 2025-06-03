@@ -25,7 +25,7 @@ spec:
         image: praqma/network-multitool
         env:
         - name: HTTP_PORT
-          value: "1180"
+          value: "1110"
         - name: HTTPS_PORT
           value: "11443"
         ports:
